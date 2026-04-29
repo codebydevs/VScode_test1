@@ -1,0 +1,10 @@
+.vscode/
+*.log
+*.tmp
+*.temp
+*.user
+*.suo
+*.bak
+*.swp
+.DS_Store
+Thumbs.db
